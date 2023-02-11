@@ -1,7 +1,8 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhnt31&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m @linhnt31
-- 👀 I’m interested in Internet of Things, Blockchain and Blockchain-based data sharing. 
-- 🌱 I’m currently looking for a PhD scholarship in Blockchain technology.
-- 💞️ I’m looking to collaborate on researching Blockchain and Internet of Things.
+- 👀 I’m interested in Internet of Things, Federated Learning, and Blockchain-based data sharing. 
+- 💞️ I’m looking to collaborate on researching Blockchain, Federated Learning, and Internet of Things.
 - 📫 You can reach me via information in my homepage.
 
 <!---
