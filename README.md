@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=linhnt31&color=red)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhnt31&show_icons=true&theme=radical)
 
 - 👋 Hi, I’m @linhnt31
