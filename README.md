@@ -8,8 +8,8 @@
 </p>
 
 - 👋 Hi, I’m @linhnt31, you can call me **Linh**.
-- 👀 I’m interested in Networking and Systems, Internet of Things, Federated Learning, and Blockchain-based data sharing. 
-- 💞️ I’m looking to collaborate on researching Cloud computing, Blockchain, Federated Learning, and Internet of Things
+- 👀 I’m interested in Data sharing, Network systems and Network economics. 
+- 💞️ I’m looking to collaborate on researching Blockchain, Federated Learning, and Blockchain-enabled Everything.
 - 📫 You can reach me via my email: ***nguyenthanhlinh58@gmail.com***
 
 ## 💻 Tech stack
