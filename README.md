@@ -8,7 +8,7 @@
 </p>
 
 - 👋 Hi, I’m @linhnt31, you can call me **Linh**.
-- 👀 I’m interested in Data sharing, Network systems and Network economics. 
+- 👀 I’m interested in Blockchain-based Data sharing, Federated Machine Learning, and Network economics. 
 - 💞️ I’m looking to collaborate on researching Incentivization for Federated (Un)Learning.
 - 📫 You can reach me via my email: ***nguyenthanhlinh58@gmail.com***
 
