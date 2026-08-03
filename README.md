@@ -3,8 +3,8 @@
 ## 🕵️ About me
 
 <p align="center">
-<img src ="https://github-readme-stats.vercel.app/api?username=linhnt31&show_icons=true&locale=en" alt="linhnt31">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=linhnt31&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css,java,c,matlab,scss,less">
+<img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linhnt31&theme=github" alt="linhnt31 profile details">
+<img src ="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linhnt31&theme=github" alt="linhnt31 repos per language">
 </p>
 
 - 👋 Hi, I’m @linhnt31, you can call me **Linh**.
