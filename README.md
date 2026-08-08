@@ -4,7 +4,6 @@
 
 <p align="center">
 <img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linhnt31&theme=github" alt="linhnt31 profile details">
-<img src ="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linhnt31&theme=github" alt="linhnt31 repos per language">
 </p>
 
 - 👋 Hi, I’m @linhnt31, you can call me **Linh**.
