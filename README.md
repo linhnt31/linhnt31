@@ -6,15 +6,8 @@
 <img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linhnt31&theme=github" alt="linhnt31 profile details">
 </p>
 
-## ⭐ GitHub stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=linhnt31&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="linhnt31 GitHub stats including total stars">
-</p>
-
 - 👋 Hi, I’m @linhnt31, you can call me **Linh**.
-- 👀 I’m interested in Blockchain-based Data sharing, Federated Machine Learning, and Network economics. 
-- 💞️ I’m looking to collaborate on researching Incentivization for Federated (Un)Learning.
+- 👀 I’m interested in Blockchain-based Data sharing, Federated Learning/Unlearning, and Incentivization. 
 - 📫 You can reach me via my email: ***nguyenthanhlinh58@gmail.com***
 
 ## 💻 Tech stack
